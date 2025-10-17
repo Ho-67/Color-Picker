@@ -4,6 +4,10 @@
 
 這個專案旨在提供一個直覺的介面，讓使用者可以透過 RGB 滑桿或直接輸入 Hex Code 來調整顏色，並即時看到背景顏色的變化。
 
+## 預覽／示範
+
+[Color Picker 畫面預覽展示](ho-67.github.io/Color-Picker/)
+
 ## 功能亮點 (Features)
 
 - **雙向顏色同步：**
